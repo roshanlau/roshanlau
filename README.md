@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @roshanlau
 - 👀 I’m interested in developing a software, photography and video editing as well.
-- 🌱 I’m currently learning python, C language, ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning react framework for web development
+
 - 📫 How to reach me by:
 - Instagram : @roshanlau
 - Facebook  : Roshan Lau
